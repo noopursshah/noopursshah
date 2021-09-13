@@ -1,7 +1,6 @@
-### Hi there!
-#### I’m currently working with gopaddle
-#### I’m currently learning about Kunbernetes 
-chandancv4 chandan cv that_syntax_error syntax error!
+### Hi there im Anirudh!
+#### I’m currently a trainee at https://gopaddle.io/ .Im learning about Kunbernete and am well versed in SSH
+
 <!--
 **anirudhd575/anirudhd575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
