@@ -1,6 +1,6 @@
 ### Hi there im Anirudh!
 #### I’m currently a trainee at https://gopaddle.io/ .Im learning about Kunbernete and am well versed in SSH
-<br />
+
 ### Connect with me:
 
 [<img align="left" alt="Anirudh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
