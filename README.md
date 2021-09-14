@@ -1,7 +1,7 @@
-### Hi there im Anirudh!
+## Hi there im Anirudh!
 
--I’m currently a trainee at https://gopaddle.io/ .
--Im learning about Kunbernete and am well versed in SSH
+I’m currently a trainee at https://gopaddle.io/ .
+Im learning about Kunbernete and am well versed in SSH
 
 ### Connect with me:
 
