@@ -24,3 +24,4 @@ Im learning about Kunbernete and am well versed in SSH
 [instagram]: https://www.instagram.com/anirudh.d.575
 [linkedin]: https://www.linkedin.com/in/anirudh-d-1b5493220
 [discord]: https://discord.gg/dr24Z4BmP8
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
