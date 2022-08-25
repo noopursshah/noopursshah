@@ -1,4 +1,4 @@
-### Hi there im Anirudh!
+### Hi there, im Anirudh!
 
 I’m currently a student @UBCV <br />
 I'm learning about Kunbernetes. <br />
