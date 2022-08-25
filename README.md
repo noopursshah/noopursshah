@@ -26,6 +26,5 @@ I can work with SSH, Git and Github.
 [linkedin]: https://www.linkedin.com/in/anirudh-d-1b5493220
 [discord]: https://discord.gg/dr24Z4BmP8
 [vscode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
 [github]: https://github.com/
 [terminal]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png
