@@ -1,6 +1,6 @@
 ### Hi there im Anirudh!
 
-I’m currently a trainee at https://gopaddle.io/ <br />
+I’m currently a student @UBCV <br />
 I'm learning about Kunbernetes. <br />
 I can work with SSH, Git and Github.
 
