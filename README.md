@@ -22,7 +22,7 @@ I can work with SSH, python and Github.
 
 [twitter]: https://twitter.com/AnirudhD13
 [instagram]: https://www.instagram.com/anirudh.d.575
-[linkedin]: https://www.linkedin.com/in/anirudh-d-1b5493220
+[linkedin]: https://www.linkedin.com/in/anirudh-devanand-1b5493220/
 [discord]: https://discord.gg/dr24Z4BmP8
 [vscode]: https://code.visualstudio.com/
 [github]: https://github.com/
