@@ -21,7 +21,7 @@ I usually work with SSH and python using VSCode/git.
 
 <br />
 <br />
----
+
 
 [twitter]: https://twitter.com/AnirudhD13
 [instagram]: https://www.instagram.com/anirudh.d.575
