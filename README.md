@@ -2,7 +2,7 @@
 
 I’m currently a student @UBCV <br />
 I'm learning about Kunbernetes. <br />
-I usually work with SSH and python using VSCode/git.
+I usually work with bash and python using VSCode/git.
 
 ### Connect with me:
 
