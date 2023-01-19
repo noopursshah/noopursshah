@@ -17,7 +17,7 @@ I usually work with bash and python using VSCode/git.
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
-[<img align="left" alt="Git" width="26px" src="https://www.google.com/search?q=git+icon&tbm=isch&ved=2ahUKEwjO8oKhhtT8AhX1GTQIHUuHAaEQ2-cCegQIABAA&oq=git+icon&gs_lcp=CgNpbWcQAzIECAAQQzIECAAQQzIECAAQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgYIABAFEB4yBggAEAUQHjoHCAAQsQMQQ1CkC1jlGGC0GmgAcAB4AIABV4gBrwSSAQE5mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=JG_JY87QBvWz0PEPy46GiAo&bih=714&biw=1519&rlz=1C1RXQR_enCA1020CA1020&hl=en#imgrc=jpq4xLgv36ZQ1M" />][git]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
 <br />
 <br />
