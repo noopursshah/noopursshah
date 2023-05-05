@@ -18,6 +18,7 @@ I usually work with bash and python and c.
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/62985710/236541670-305ea3e1-d492-4d3c-866c-83c9d9f88bad.jpg" />]
 
 <br />
 <br />
