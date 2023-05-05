@@ -1,8 +1,8 @@
 ### Hi there, im Anirudh!
 
 I’m currently a student @UBCV <br />
-I'm learning about Kunbernetes. <br />
-I usually work with bash and python using VSCode/git.
+I'm learning K8s. <br />
+I usually work with bash and python and c.
 
 ### Connect with me:
 
