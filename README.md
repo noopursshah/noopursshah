@@ -1,8 +1,8 @@
-### Hi there, im Anirudh!
+### Anirudh Devanand.
 
-I’m currently a student @UBCV <br />
-I'm learning K8s. <br />
-I usually work with bash and python and c.
+Student @UBC | Kubernetes Enthusiast
+<br>
+Opensource Contributor @sail | Shell Scripter 
 
 ### Connect with me:
 
@@ -17,8 +17,8 @@ I usually work with bash and python and c.
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/62985710/236541670-305ea3e1-d492-4d3c-866c-83c9d9f88bad.jpg" />]
+[<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/62985710/236544113-9b71148a-70e5-4448-bb30-fec4e15e92d9.png" />][git]
+<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/62985710/236543807-0ff026c2-37d8-4172-9a4e-c0258125071d.png" />
 
 <br />
 <br />
