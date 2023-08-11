@@ -8,6 +8,7 @@ Opensource Contributor @sail | Shell Scripter
 
 
 [<img align="left" alt="Anirudh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Anirudh | Discord" width="22px" src="https://github.com/anirudh-devanand/anirudh-devanand/assets/62985710/f7593635-7d98-429a-a77e-54937fd28b8c)" />][discord]
 <br />
 
 ### Languages and Frameworks:
@@ -26,6 +27,7 @@ Opensource Contributor @sail | Shell Scripter
 
 
 [linkedin]: https://www.linkedin.com/in/anirudh-devanand-1b5493220/d
+[discord]: https://discord.com/channels/@me
 [vscode]: https://code.visualstudio.com/
 [bash]: https://www.gnu.org/software/bash/
 [python]: https://www.python.org/
