@@ -1,8 +1,6 @@
 ### Anirudh Devanand.
 
-Student @UBC | Kubernetes Enthusiast
-<br>
-Opensource Contributor @sail | Shell Scripter 
+Computer Engineering Student @UBC | Cloud-Native  | Shell Scripter
 
 ### Connect with me:
 
