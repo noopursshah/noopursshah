@@ -1,6 +1,6 @@
-### Anirudh Devanand.
+### Noopur Shah.
 
-Computer Engineering Student @UBC | Cloud-Native  | Shell Scripter
+Statistics Student @UBC
 
 ### Connect with me:
 
