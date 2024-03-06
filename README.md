@@ -11,7 +11,7 @@
     <div align=left>
         <br>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Statistics & Data Science.</li>
+            <li>🌱 <b>I’m currently studying</b>: Statistics & Data Science @UBC Vancouver</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1e40uecmigm6uOmKMYOpOtdInQaWEtUw_/view?usp=sharing">LINK TO MY RESUME</a>.</li>
             <li>📫 <b>How to reach me</b>: noopursshah@gmail.com </li>
         </ul>
