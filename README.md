@@ -5,7 +5,7 @@ Statistics Student @UBC
 ### Connect with me:
 
 
-[<img align="left" alt="Anirudh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Anirudh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/noopur-shah-178b07207]
 [<img align="left" alt="Anirudh | Discord" width="22px" src="https://user-images.githubusercontent.com/62985710/259906089-84546500-4abb-4f6e-8b01-b48177e7d626.png" />][discord]
 <br />
 
